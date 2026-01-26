@@ -23,8 +23,3 @@ variable "sg_tags" {
     type = map
     default = {}
 }
-
-variable "sgtags" {
-  type = map
-  
-}
